@@ -1,4 +1,5 @@
-(Implement and manage virtual networking)  
+(Implement and manage virtual networking)   https://www.youtube.com/watch?v=hbo1rC0pNTo&feature=youtu.be
+
 Design a hybrid networking environment where on-premises networks connect securely to Azure resources using Azure's networking capabilities, ensuring secure data transition and effective resource access controls.
 
 Programming required?: ❌ Minimal to none. This project is largely focused on networking configurations, but understanding scripting for automating certain tasks or deploying resources could be beneficial.
